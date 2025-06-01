@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sukuna_wallpapers/widgets/CustomAppBar.dart';
-import 'package:sukuna_wallpapers/widgets/catBlock.dart';
-import 'package:sukuna_wallpapers/widgets/SearchBar.dart';
+import 'package:wallpaper_4k/widgets/CustomAppBar.dart';
+import 'package:wallpaper_4k/widgets/catBlock.dart';
+import 'package:wallpaper_4k/widgets/SearchBar.dart';
 
 class Category extends StatelessWidget {
   const Category({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sukuna_wallpapers/views/screens/category.dart';
-import 'package:sukuna_wallpapers/views/screens/home.dart';
+import 'package:wallpaper_4k/views/screens/category.dart';
+import 'package:wallpaper_4k/views/screens/home.dart';
 
 void main() {
   runApp(MyApp());
